@@ -1,0 +1,3 @@
+- 👋 Hi, I’m CodeFish
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning imagè processing
